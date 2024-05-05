@@ -1,2 +1,6 @@
-# Semiautomatic-Pill-Dispenser-
+# CONTACTLESS-Dispenser-
 Mechatronics Project 
+
+
+The "Contactless Dispenser" is an innovative and vital project developed by our team, designed to address the pressing need for maintaining hygiene and preventing the spread of diseases, especially in times of pandemics and healthcare settings. Utilizing Arduino technology and incorporating IR sensor detection as the input mechanism, our dispenser offers a touchless and hygienic solution for various liquid dispensing applications. By eliminating physical contact, this device minimizes the risk of cross-contamination, making it an ideal choice for hospitals, public spaces, and other critical areas where hygiene is of utmost importance.
+The Contactless Dispenser features a versatile design, employing a servo motor actuator for precise pill dispensing and a rack and pinion mechanism for efficient bandage roll distribution. The use of acrylic sheets as sides ensures sturdiness and transparency, allowing users to monitor the contents easily. Additionally, a foam sheet serves as a stable and hygienic base for the dispenser, further enhancing its reliability. The combination of these materials and mechanisms results in a robust and user-friendly product that promotes safer interactions and hygiene practices. The Contactless Dispenser proves to be an invaluable asset in safeguarding public health and can be seamlessly integrated into various environments, significantly contributing to disease prevention during challenging times.
